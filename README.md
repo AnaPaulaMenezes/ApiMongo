@@ -14,7 +14,7 @@
 <p>
     O projeto foi documentado utilizando <a href="https://swagger.io/">Swagger</a> e  suas rotas podem ser acessadas ao rodar a aplicação em modo debug:
 </p>
-<img src="./images/Swagger.jpg"/>
+<img src="https://github.com/AnaPaulaMenezes/ApiMongo/blob/master/images/Swagger.JPG"/>
 
 <h2>Instalação</h2>
 <ul>
