@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiMongo</name>
+    </assembly>
+    <members>
+        <member name="M:ApiMongo.Controllers.InfectadoController.SalvarInfectado(ApiMongo.Models.InfectadoDto)">
+            <summary>
+             Adicionar um infectado
+            </summary>
+            <param name="InfectadoDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiMongo.Controllers.InfectadoController.ObterInfectados">
+            <summary>
+             Listar infectados
+            </summary>
+            <param></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiMongo.Controllers.InfectadoController.AtualizarInfectado(System.String,ApiMongo.Models.InfectadoDto)">
+            <summary>
+             Atualizar infectado
+            </summary>
+            <param name="string"></param>
+            <param name="InfectadoDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiMongo.Controllers.InfectadoController.AtualizarInfectado(System.String)">
+            <summary>
+             Deletar infectado
+            </summary>
+            <param name="string"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiMongo.Controllers.InfectadoController.MarcarCurado(System.String,System.Boolean)">
+            <summary>
+             Marcar infectado como curado
+            </summary>
+            <param name="string"></param>
+            <param name="bool"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
